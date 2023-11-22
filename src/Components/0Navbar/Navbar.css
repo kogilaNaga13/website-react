@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width:80%;
+    margin: 20px auto;
+}
+.row{
+    display: flex;
+    flex-wrap:wrap;
+}
+.col1{
+    width: 8.33%;
+    padding: 0 15px;
+}
+.col-7{
+    width:58.33%;
+    padding:0 15px;
+}
+a{
+    text-decoration: none;
+    color:black;
+    padding:0 10px;
+}
+.navset{
+    display: flex;
+}
+.mass{
+    box-shadow: 0 0 5px;
+    padding: 10px 0;
+    width: 100% !important;
+    
+}
+.nav-img img{
+    width: 10%;
+}
+.nav-img{
+    width: 20%;
+}
+.icon{
+    padding: 0 8px;
+}
+.oth{
+    padding:0 6px 0 0;
+}
+.cont{
+    margin-left: -54px;
+    display: flex;
+}

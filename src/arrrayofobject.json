@@ -1,0 +1,217 @@
+{
+    "Food":[
+        {
+            "image":"./Images/old.webp",
+           "branch":"NIC Ice Creams",
+            "rating":"4.3",
+            "time":"21",
+            "dish":"Ice Cream, Desserts",
+            "location":"Madipakkam"
+        },
+        {
+            "image":"./Images/slupry.webp",
+            "branch":"NIC Ice Creams",
+            "rating":"4.3",
+            "time":"21",
+            "dish":"Ice Cream, Desserts",
+            "location":"Madipakkam"
+        },
+        {
+            "image":"./Images/zone.webp",
+            "branch":"NIC Ice Creams",
+            "rating":"4.3",
+            "time":"21",
+            "dish":"Ice Cream, Desserts",
+            "location":"Madipakkam"
+        },
+       
+        {
+            "image":"./Images/pizza1.webp",
+            "branch":"NIC Ice Creams",
+            "rating":"4.3",
+            "time":"21",
+            "dish":"Ice Cream, Desserts",
+            "location":"Madipakkam"
+        },
+
+        {
+            "image":"./Images/ambur.webp",
+            "branch":"NIC Ice Creams",
+            "rating":"4.3",
+            "time":"21",
+            "dish":"Ice Cream, Desserts",
+            "location":"Madipakkam"
+        },
+
+        {
+            "image":"./Images/sweets.webp",
+            "branch":"NIC Ice Creams",
+            "rating":"4.3",
+            "time":"21",
+            "dish":"Ice Cream, Desserts",
+            "location":"Madipakkam"
+        },
+
+        {
+            "image":"./Images/pind.webp",
+            "branch":"NIC Ice Creams",
+            "rating":"4.3",
+            "time":"21",
+            "dish":"Ice Cream, Desserts",
+            "location":"Madipakkam"
+        },
+
+        {
+            "image":"./Images/burger.webp",
+            "branch":"NIC Ice Creams",
+            "rating":"4.3",
+            "time":"21",
+            "dish":"Ice Cream, Desserts",
+            "location":"Madipakkam"
+        },
+
+        {
+            "image":"./Images/cake.webp",
+            "branch":"NIC Ice Creams",
+            "rating":"4.3",
+            "time":"21",
+            "dish":"Ice Cream, Desserts",
+            "location":"Madipakkam"
+        },
+
+        {
+            "image":"./Images/moonlight.webp",
+            "branch":"NIC Ice Creams",
+            "rating":"4.3",
+            "time":"21",
+            "dish":"Ice Cream, Desserts",
+            "location":"Madipakkam"
+        },
+
+        {
+            "image":"./Images/maha.webp",
+            "branch":"NIC Ice Creams",
+            "rating":"4.3",
+            "time":"21",
+            "dish":"Ice Cream, Desserts",
+            "location":"Madipakkam"
+        },
+
+        {
+            "image":"./Images/havmor.webp",
+            "branch":"NIC Ice Creams",
+            "rating":"4.3",
+            "time":"21",
+            "dish":"Ice Cream, Desserts",
+            "location":"Madipakkam"
+        },
+
+        {
+            "image":"./Images/geetham.webp",
+            "branch":"NIC Ice Creams",
+            "rating":"4.3",
+            "time":"21",
+            "dish":"Ice Cream, Desserts",
+            "location":"Madipakkam"
+        },
+
+        {
+            "image":"./Images/heaven.webp",
+            "branch":"NIC Ice Creams",
+            "rating":"4.3",
+            "time":"21",
+            "dish":"Ice Cream, Desserts",
+            "location":"Madipakkam"
+        },
+
+        {
+            "image":"./Images/smoor.webp",
+            "branch":"NIC Ice Creams",
+            "rating":"4.3",
+            "time":"21",
+            "dish":"Ice Cream, Desserts",
+            "location":"Madipakkam"
+        },
+
+        {
+            "image":"./Images/madras.webp",
+            "branch":"NIC Ice Creams",
+            "rating":"4.3",
+            "time":"21",
+            "dish":"Ice Cream, Desserts",
+            "location":"Madipakkam"
+        },
+
+        {
+            "image":"./Images/juice.webp",
+            "branch":"NIC Ice Creams",
+            "rating":"4.3",
+            "time":"21",
+            "dish":"Ice Cream, Desserts",
+            "location":"Madipakkam"
+        },
+
+        {
+            "image":"./Images/lakshmi.webp",
+            "branch":"NIC Ice Creams",
+            "rating":"4.3",
+            "time":"21",
+            "dish":"Ice Cream, Desserts",
+            "location":"Madipakkam"
+        },
+
+        {
+            "image":"./Images/kulfi.webp",
+            "branch":"NIC Ice Creams",
+            "rating":"4.3",
+            "time":"21",
+            "dish":"Ice Cream, Desserts",
+            "location":"Madipakkam"
+        },
+ 
+        {
+            "image":"./Images/naidu.webp",
+            "branch":"NIC Ice Creams",
+            "rating":"4.3",
+            "time":"21",
+            "dish":"Ice Cream, Desserts",
+            "location":"Madipakkam"
+        },
+
+        {
+            "image":"./Images/Chinese.webp",
+            "branch":"NIC Ice Creams",
+            "rating":"4.3",
+            "time":"21",
+            "dish":"Ice Cream, Desserts",
+            "location":"Madipakkam"
+        },
+
+        {
+            "image":"./Images/nic.webp",
+            "branch":"NIC Ice Creams",
+            "rating":"4.3",
+            "time":"21",
+            "dish":"Ice Cream, Desserts",
+            "location":"Madipakkam"
+        },
+
+        {
+            "image":"./Images/subam.webp",
+            "branch":"NIC Ice Creams",
+            "rating":"4.3",
+            "time":"21",
+            "dish":"Ice Cream, Desserts",
+            "location":"Madipakkam"
+        },
+
+        {
+            "image":"./Images/nandavanam.webp",
+            "branch":"NIC Ice Creams",
+            "rating":"4.3",
+            "time":"21",
+            "dish":"Ice Cream, Desserts",
+            "location":"Madipakkam"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width:100%;
+    margin: 20px auto;
+}
+.row{
+    display: flex;
+    flex-wrap:wrap;
+}
+/* .color{
+    background-color:lightblue;
+} */
+.offers{
+    display: flex;
+}
+.off-image img{
+    width:95%;
+    padding: 30px 0;
+}
